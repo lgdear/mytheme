@@ -1,0 +1,215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MyTheme\n"
+"POT-Creation-Date: 2013-01-04 14:07+0900\n"
+"PO-Revision-Date: 2013-01-07 01:34+0900\n"
+"Last-Translator: \n"
+"Language-Team: 저녁놀 <foxmann@naver.com>\n"
+"Language: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;__;_x;_e;printf;sprint;_n\n"
+"X-Poedit-Basepath: C:\\Users\\LiveIT\\Desktop\\wp_work\\MyTheme\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: inc\n"
+
+#: comments.php:9
+#, php-format
+msgid "%1$s thoughts on %2$s"
+msgstr "%2$s에 %1$s개의 댓글이 있습니다."
+
+#: content-page.php:8 content-single.php:14 content.php:29
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:9 content-single.php:52 content.php:62
+msgid "Edit"
+msgstr "편집"
+
+#: content-single.php:20 content-single.php:23 content.php:37 content.php:47
+msgid ", "
+msgstr ""
+
+#: content-single.php:28
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"태그 %2$s | 북마크 <a href=\"%3$s\" title=\"Permalink to %4$s\" rel="
+"\"bookmark\">고유주소</a>"
+
+#: content-single.php:30
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+"북마크 <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">고유주소"
+"</a>."
+
+#: content-single.php:36
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"카테고리 %1$s | 태그 %2$s | 북마크 <a href=\"%3$s\" title=\"Permalink to %4$s"
+"\" rel=\"bookmark\">고유주소</a>  "
+
+#: content-single.php:38
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"카테고리 %1$s | 북마크 <a href=\"%3$s\" title=\"Permalink to %4$s\" rel="
+"\"bookmark\">고유주소</a>."
+
+#: content.php:4
+#, php-format
+msgid "Permalink to %s"
+msgstr "고유주소 %s"
+
+#: content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "계속 읽기 <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:41
+#, php-format
+msgid "Posted in %1$s"
+msgstr "카테고리 %1$s"
+
+#: content.php:52
+#, php-format
+msgid "Tagged %1$s"
+msgstr "태그 %1$s"
+
+#: content.php:59
+msgid "Leave a comment"
+msgstr "댓글을 남겨주세요."
+
+#: content.php:59
+msgid "1 Comment"
+msgstr "1개의 댓글"
+
+#: content.php:59
+msgid "% Comments"
+msgstr "% Comments"
+
+#: functions.php:22
+msgid "Primary Menu"
+msgstr "기본 메뉴"
+
+#: functions.php:23
+msgid "Secondary Menu"
+msgstr "두 번째 메뉴"
+
+#: no-results.php:3
+msgid "웹페이지를 찾을 수 없습니다."
+msgstr ""
+
+#: no-results.php:9
+#, php-format
+msgid ""
+"첫번째 게시물을 작성하시겠습니까? <a href=\"%1$s\">여기에서 작성하십시오</a>."
+msgstr ""
+
+#: no-results.php:14
+msgid "검색 결과가 없습니다. 다른 검색어로 찾아보시기 바랍니다."
+msgstr ""
+
+#: no-results.php:18
+msgid "지정한 웹페이지가 없습니다. 검색어로 찾아보시기 바랍니다."
+msgstr ""
+
+#: search.php:10
+#, php-format
+msgid "Search Results for: %s"
+msgstr "%s의 검색 결과"
+
+#: searchform.php:2
+msgid "Search"
+msgstr "검색"
+
+#: sidebar.php:10
+msgid "Archives"
+msgstr "포스트"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "메타"
+
+#: inc/extras.php:75
+#, php-format
+msgid "Page %s"
+msgstr "페이지 %s"
+
+#: inc/template-tags.php:22
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:26
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:32
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 이전 포스트"
+
+#: inc/template-tags.php:36
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "다음 포스트 <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:53
+msgid "Pingback:"
+msgstr "핑백"
+
+#: inc/template-tags.php:53 inc/template-tags.php:76
+msgid "(Edit)"
+msgstr "편집"
+
+#: inc/template-tags.php:63
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">댓글:</span>"
+
+#: inc/template-tags.php:66
+msgid "Your comment is awaiting moderation."
+msgstr "귀하의 댓글은 검토중입니다."
+
+#: inc/template-tags.php:74
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s에 %2$s"
+
+#: inc/template-tags.php:95
+#, php-format
+msgid ""
+"Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+"\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"byline\"> by "
+"<span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s"
+"\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+"작성일자 <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+"\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"byline\"> by "
+"<span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s"
+"\" rel=\"author\">%7$s</a></span></span>"
+
+#: inc/template-tags.php:101
+#, php-format
+msgid "View all posts by %s"
+msgstr "%s의 모든글 보기"
+
+#: js/comments.php:9
+#, php-format
+msgid "%1$s에 %2$s개의 댓글이 있습니다."
+msgstr ""
